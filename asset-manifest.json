@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.810fa7b0.css",
+    "main.js": "/static/js/main.70744d7b.js",
+    "static/js/239.090a8108.chunk.js": "/static/js/239.090a8108.chunk.js",
+    "static/js/213.02828365.chunk.js": "/static/js/213.02828365.chunk.js",
+    "static/js/732.d5c7d16c.chunk.js": "/static/js/732.d5c7d16c.chunk.js",
+    "static/js/453.95864a35.chunk.js": "/static/js/453.95864a35.chunk.js",
+    "static/media/enquiry.png": "/static/media/enquiry.d53804d67815be570d14.png",
+    "static/media/banner.jpg": "/static/media/banner.a8392eb7b6c755262c66.jpg",
+    "static/media/vtstem.png": "/static/media/vtstem.da099957b94deb5a3f86.png",
+    "static/media/vatem.png": "/static/media/vatem.07701abe7f4b21b929a9.png",
+    "static/media/vistem.png": "/static/media/vistem.6c1217041da057e235fc.png",
+    "static/media/paysliplogo.png": "/static/media/paysliplogo.891e4bf8010e23ec8c0e.png",
+    "static/media/vetri.png": "/static/media/vetri.139c50e50bab6a6c8c58.png",
+    "index.html": "/index.html",
+    "main.810fa7b0.css.map": "/static/css/main.810fa7b0.css.map",
+    "main.70744d7b.js.map": "/static/js/main.70744d7b.js.map",
+    "239.090a8108.chunk.js.map": "/static/js/239.090a8108.chunk.js.map",
+    "213.02828365.chunk.js.map": "/static/js/213.02828365.chunk.js.map",
+    "732.d5c7d16c.chunk.js.map": "/static/js/732.d5c7d16c.chunk.js.map",
+    "453.95864a35.chunk.js.map": "/static/js/453.95864a35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.810fa7b0.css",
+    "static/js/main.70744d7b.js"
+  ]
+}
